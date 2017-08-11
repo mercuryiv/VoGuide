@@ -1,5 +1,6 @@
 # VoGuide
 Learning @ the speed of need
+
 The education market in India, which is presently worth around Rs 5.9 trillion (US$ 92.98 billion), is poised for major disruption. The new landscape in education will be dominated by Access & Personalisation of Content & Context. It is expected that by 2020, India will have the world’s largest tertiary-age population, and the second largest graduate talent pipeline globally.
 
 Most of today’s jobs will not exist in the future. the key is reskilling, upskilling & life-time continuous learning. 30% of today's workforce are non-traditional workers: freelancers, contractors, consultants & collaborators. Reskilling & upskilling the talent pipeline is paramount to the Future of Work in a gig economy & an uberized workforce. Prime among the trends that out-think is the transition of the strategic imperative from a Digital world to Cognitive. Learning is now a consumer-driven experience & at an inflection point. &  The opportunity is in disrupting & democratizing learning.
